@@ -3,8 +3,8 @@
 ## INDICE
 ### 1. PROYECTO :exploding_head: :sunglasses:
 ### 2. ESTRUCTURA :skull:
-### 3. OBJETIVO :woman-lifting-weights: :checkered_flag:
-### 4. RECURSOS :page_with_curl: :linked_paperclips:
+### 3. OBJETIVO  :checkered_flag: :call_me_hand:
+### 4. RECURSOS :  :nerd_face: page_with_curl: 
 
 ![fotodeportada](https://github.com/leticia-sobrino/diamonds-project/blob/main/imagen/diamante-todo-lo-que-tienes-que-saber-sobre-los-diamantes.jpg)
 
@@ -66,12 +66,12 @@ Este proyecto está organizado de la sigyinete manera:
 5. DIAPOSITIVA RESUMEN
 
 
-## 3. OBJETIVO :woman-lifting-weights: :checkered_flag:
+## 3. OBJETIVO  :checkered_flag: :call_me_hand:
 El objetivo del proyecto ha sido utilizar los conocimientos adquiridos durante la semana pasada de Machine Learning para poder ponerme a prueba sobre lo entendido, y qué ,ejor enfrentándome a un caso real.
 El fin de este proyecto por tanto ha sido encontrar los mejores modelos posibles que se acercaran al precio real de los diamantes dependiendo de todas las variables dadas. Y, finalmente he participado en una competición de kaggle privada con mis resultados encontrados.
 
 
-## 4. RECURSOS :page_with_curl: :linked_paperclips:
+## 4. RECURSOS :nerd_face:  :page_with_curl: 
 
 En este apartado dejaré los recursos que me han ayudado  para el desarrollo de este proyecto:
 
