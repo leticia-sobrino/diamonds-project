@@ -4,7 +4,7 @@
 ### 1. PROYECTO :exploding_head: :sunglasses:
 ### 2. ESTRUCTURA :skull:
 ### 3. OBJETIVO  :checkered_flag: :call_me_hand:
-### 4. RECURSOS :  :nerd_face: page_with_curl: 
+### 4. RECURSOS   :nerd_face: :page_with_curl: 
 
 ![fotodeportada](https://github.com/leticia-sobrino/diamonds-project/blob/main/imagen/diamante-todo-lo-que-tienes-que-saber-sobre-los-diamantes.jpg)
 
