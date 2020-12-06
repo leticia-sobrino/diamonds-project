@@ -6,7 +6,7 @@
 ### 3. OBJETIVO :woman-lifting-weights: :checkered_flag:
 ### 4. RECURSOS :page_with_curl: :linked_paperclips:
 
-
+![fotodeportada](https://github.com/leticia-sobrino/diamonds-project/blob/main/imagen/diamante-todo-lo-que-tienes-que-saber-sobre-los-diamantes.jpg)
 
 
 ## 1. PROYECTO :exploding_head: :sunglasses:
